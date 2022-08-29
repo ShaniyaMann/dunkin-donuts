@@ -1,11 +1,13 @@
 # dunkin-donuts
-Here is the link to clone>  https://ShaniyaMann.github.io/dunkin-donuts/
-Here is the link of the site> 
 This project is a password generator. Once on the site you will hit generate password to then be prompted with multiple questions such as, "How many characters would you like your password? Choose between 8 and 128," followed by "Will this contain lower case letters?"
-Built with 
+# Built With
 HTML
 JS
 CSS
+# Deployed LINK  https://ShaniyaMann.github.io/dunkin-donuts/
+# Author
+- Link to Github
+- Link to Linkedin
 <img width="1080" alt="Screen Shot 2022-06-07 at 2 45 10 AM" src="https://user-images.githubusercontent.com/99623640/172313700-81868103-4466-484b-b3e9-3b93857b29b0.png">
 <img width="1080" alt="Screen Shot 2022-06-07 at 2 45 36 AM" src="https://user-images.githubusercontent.com/99623640/172313767-e383e4b4-3225-4644-8f61-2d9f6e55077a.png">
 <img width="1080" alt="Screen Shot 2022-06-07 at 2 45 48 AM" src="https://user-images.githubusercontent.com/99623640/172313795-089eae22-3c9c-4f82-8021-e99cb30e1b5e.png">
