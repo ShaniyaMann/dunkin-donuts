@@ -7,8 +7,8 @@ This project is a password generator. Once on the site you will hit generate pas
 # Deployed Link
 - https://ShaniyaMann.github.io/dunkin-donuts/
 # Author
-- Link to Github
-- Link to Linkedin
+- Link to Github https://github.com/ShaniyaMann
+- Link to Linkedin https://www.linkedin.com/in/shaniya-mann-8a6b53231/
 <img width="1080" alt="Screen Shot 2022-06-07 at 2 45 10 AM" src="https://user-images.githubusercontent.com/99623640/172313700-81868103-4466-484b-b3e9-3b93857b29b0.png">
 <img width="1080" alt="Screen Shot 2022-06-07 at 2 45 36 AM" src="https://user-images.githubusercontent.com/99623640/172313767-e383e4b4-3225-4644-8f61-2d9f6e55077a.png">
 <img width="1080" alt="Screen Shot 2022-06-07 at 2 45 48 AM" src="https://user-images.githubusercontent.com/99623640/172313795-089eae22-3c9c-4f82-8021-e99cb30e1b5e.png">
