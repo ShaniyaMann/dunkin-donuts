@@ -5,7 +5,7 @@ This project is a password generator. Once on the site you will hit generate pas
 - JavaScript
 - CSS
 # Deployed Link
-- https://ShaniyaMann.github.io/dunkin-donuts/
+- shaniyamann.github.io.
 
 # Author
 - Link to Github https://github.com/ShaniyaMann
